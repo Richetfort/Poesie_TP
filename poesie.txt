@@ -1,9 +1,9 @@
-Mon chien VERBE COMPLEMENT
+Mon chien arrose COMPLEMENT
 La grenouille mange un rose
-Pikachu VERBE COMPLEMENT
+Pikachu VERBE une pomme.
 Abeille VERBE COMPLEMENT
 SUJET escalade COMPLEMENT
 Pierre VERBE COMPLEMENT
 SUJET dorment tranquilles
 SUJET VERBE un velo
-SUJET VERBE les catacombes de Paris.
+Ma tante VERBE les catacombes de Paris.
