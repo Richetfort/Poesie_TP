@@ -1,9 +1,9 @@
 Baudelaire jalouse notre poème
 Clément aime le tiramisu
 Je recommande le Palatino à Bordeaux
-Mon oncle VERBE COMPLEMENT
-SUJET enfile COMPLEMENT
-SUJET VERBE une bière.
+Mon oncle déteste COMPLEMENT
+SUJET enfile une bague
+Jean-Pierre VERBE une bière.
 Darth Vader VERBE de l'eau
 Une chat regarde COMPLEMENT
 SUJET grimpe la mer
