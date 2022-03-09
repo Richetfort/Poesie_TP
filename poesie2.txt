@@ -4,6 +4,6 @@ Je recommande le Palatino à Bordeaux
 Mon oncle VERBE COMPLEMENT
 SUJET enfile COMPLEMENT
 SUJET VERBE une bière.
-Darth Vader VERBE COMPLEMENT
-SUJET regarde COMPLEMENT
-SUJET VERBE la mer
+Darth Vader VERBE de l'eau
+Une chat regarde COMPLEMENT
+SUJET grimpe la mer
