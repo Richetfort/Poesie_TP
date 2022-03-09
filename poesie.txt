@@ -1,9 +1,9 @@
-Mon chien VERBE COMPLEMENT
+Mon chien arrose COMPLEMENT
 SUJET mange Rose
-SUJET VERBE COMPLEMENT
+SUJET VERBE une pomme.
 Abeille VERBE COMPLEMENT
 SUJET escalade COMPLEMENT
 Pierre VERBE COMPLEMENT
 SUJET dorment COMPLEMENT
 SUJET VERBE un velo
-SUJET VERBE les catacombes de Paris.
+Ma tante VERBE les catacombes de Paris.
