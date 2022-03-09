@@ -4,6 +4,6 @@ Je recommande le Palatino à Bordeaux
 Mon oncle VERBE COMPLEMENT
 SUJET enfile COMPLEMENT
 SUJET VERBE une bière.
-Darth Vader VERBE COMPLEMENT
-SUJET regarde COMPLEMENT
-SUJET VERBE la mer
+Darth Vader est son père
+Simba regarde l'horizonte
+Eren indique la mer
