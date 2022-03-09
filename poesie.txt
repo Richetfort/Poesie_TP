@@ -2,8 +2,16 @@ Abeille butine de la purée mousseline
 Napoléon escalade à Bordeaux
 Pierre dort sur un vélo
 La grenouille mange un rose
+<<<<<<< HEAD
 Pikachu frappe une pomme.
 SUJET VERBE COMPLEMENT
 Ma tante arrose les catacombes de Paris.
 Mon chien VERBE COMPLEMENT
 Bruno VERBE tranquilles.
+=======
+Pikachu aime une pomme.
+Proust VERBE COMPLEMENT
+Ma tante arrose les catacombes de Paris.
+Mon chien VERBE sur le mur
+SUJET VERBE tranquilles.
+>>>>>>> eb08865d4bef6cf37a070d3eb32447ccf8869b05
