@@ -1,9 +1,9 @@
 Mon chien VERBE COMPLEMENT
 SUJET mange Rose
-SUJET VERBE COMPLEMENT
-Abeille VERBE COMPLEMENT
+SUJET VERBE purée mousseline
+Abeille buttine COMPLEMENT
 SUJET escalade COMPLEMENT
 Pierre VERBE COMPLEMENT
 SUJET dorment COMPLEMENT
-SUJET VERBE un velo
+Napoloén VERBE un velo
 SUJET VERBE les catacombes de Paris.
